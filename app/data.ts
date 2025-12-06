@@ -1,0 +1,208 @@
+import { ElectionCategory } from './types';
+
+export const electionData: ElectionCategory[] = [
+    {
+        id: 'ward',
+        name: 'Ward',
+        nameLocal: 'വാർഡ്',
+        candidates: [
+            {
+                id: 'ward-1',
+                number: 1,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-2',
+                number: 2,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-3',
+                number: 3,
+                name: 'SHAMSAD NAJEEB',
+                nameLocal: 'ഷംസാദ നജീബ്',
+                logo: '/images/one.png',
+            },
+            {
+                id: 'ward-4',
+                number: 4,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-5',
+                number: 5,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-6',
+                number: 6,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-7',
+                number: 7,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-8',
+                number: 8,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-9',
+                number: 9,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'ward-10',
+                number: 10,
+                name: '',
+                nameLocal: '',
+            },
+        ],
+    },
+    {
+        id: 'block',
+        name: 'Block',
+        nameLocal: 'ബ്ലോക്ക്',
+        candidates: [
+            {
+                id: 'block-1',
+                number: 1,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-2',
+                number: 2,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-3',
+                number: 3,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-4',
+                number: 4,
+                name: 'VINOD PADANILAM',
+                nameLocal: 'വിനോദ് പടനിലം',
+                logo: '/images/two.png',
+            },
+            {
+                id: 'block-5',
+                number: 5,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-6',
+                number: 6,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-7',
+                number: 7,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-8',
+                number: 8,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-9',
+                number: 9,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'block-10',
+                number: 10,
+                name: '',
+                nameLocal: '',
+            },
+        ],
+    },
+    {
+        id: 'district',
+        name: 'District',
+        nameLocal: 'ജില്ല',
+        candidates: [
+            {
+                id: 'district-1',
+                number: 1,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-2',
+                number: 2,
+                name: 'SEENA',
+                nameLocal: 'സീന',
+                logo: '/images/three.png',
+            },
+            {
+                id: 'district-3',
+                number: 3,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-4',
+                number: 4,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-5',
+                number: 5,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-6',
+                number: 6,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-7',
+                number: 7,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-8',
+                number: 8,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-9',
+                number: 9,
+                name: '',
+                nameLocal: '',
+            },
+            {
+                id: 'district-10',
+                number: 10,
+                name: '',
+                nameLocal: '',
+            },
+        ],
+    },
+];
